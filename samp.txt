@@ -1,1 +1,3 @@
-hello fd
+This is a new file created to learn github 
+and rn this file is edited edited
+and changed the file again locally
